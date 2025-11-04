@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <br> upcoming  sde intern @ amazon 
+  <br> upcoming  sde intern @ amazon <br>
   🚀 I'm a Aspiring  <b>Software Developer</b> from India.<br>
   💻 I love exploring new tech stacks and building full-stack solutions.<br>
   🎯 Currently working on AI/ML, web development, and systems design.<br>
