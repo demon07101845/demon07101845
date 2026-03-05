@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/github/issues-pr/demon07101845/new_portfolio-?style=for-the-badge&logo=github&color=blue" />
   <img src="https://img.shields.io/github/issues-pr-closed/demon07101845/new_portfolio-?style=for-the-badge&logo=github&color=green" />
 </p>
+
+
 ---
 ### 📈 GitHub Stats
 <p align="center">
