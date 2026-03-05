@@ -32,10 +32,13 @@
 ---
 
 
-### 📊 Contribution Graph
+---
+
+### 🔀 Pull Requests
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demon07101845&theme=react-dark" />
+  <img src="https://img.shields.io/github/issues-pr/demon07101845/new_portfolio-?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/issues-pr-closed/demon07101845/new_portfolio-?style=for-the-badge&logo=github&color=green" />
 </p>
 ---
 ### 📈 GitHub Stats
