@@ -7,7 +7,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Ankit+Sharma+%F0%9F%91%8B;Software+Developer+%7C+Tech+Explorer;Crafting+Code+%26+Creating+Impact" alt="Typing SVG" />
 </h1>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=demon07101845&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 <!-- About Me Section -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
